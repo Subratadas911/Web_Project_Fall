@@ -1,0 +1,22 @@
+body {
+    
+  background-image: url("ok.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+background-position: center; 
+   
+    background-color: rgb(182, 190, 182);
+    
+  }
+  div{
+      text-align: center;
+      border-style: groove;
+  }
+  a:hover{
+      background-color: coral;
+  }
+  h3{
+    text-align: center;
+    
+  }

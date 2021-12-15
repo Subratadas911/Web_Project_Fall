@@ -1,0 +1,13 @@
+body {
+    
+    
+    background-color: rgb(55, 59, 65);
+    
+  }
+  div{
+      text-align: center;
+      border-style: groove;
+  }
+  a:hover{
+      background-color: coral;
+  }

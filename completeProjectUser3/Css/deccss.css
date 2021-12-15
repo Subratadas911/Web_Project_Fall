@@ -1,0 +1,31 @@
+body {
+  background-image: url("tryit.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+background-position: center;
+    background-color: #D0D3D4;
+  }
+
+  h1,h3{
+    text-align: center;
+    
+    border-style: outset;
+  }
+  a:hover {
+    
+    background-color: rgb(22, 228, 166);
+  }
+  div {text-align: center;
+    color: black;
+    margin: auto;
+border-style: groove;
+  width: 50%;
+  border: 3px solid ;
+  padding: 10px;
+    
+    padding: 5px;  
+}
+.clr{
+  color: rgb(255, 255, 255);
+}
